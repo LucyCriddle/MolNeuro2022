@@ -1,17 +1,17 @@
-# EBEC2022
+# MolNeuro2022
 
  ![](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg) 
    
 
 
-# Evolutionary Biology and Ecology of Cancer 2022
+# Molecular Neurodegeneration and Therapeutic Approaches 2022
 
 ## Course overview
-Cancers are an evolving ecosystem of cells, and so knowledge of evolution and ecology is important to understand and clinically control cancer. Unfortunately, there are few cancer biologists trained in these disciplines. This course aims to bridge that gap, facilitate cross-fertilisation of ideas, and provide hands-on training in the application of tools from evolution and ecology to cancer.
+This popular course will provide an overview of the clinical hallmarks and molecular basis of neurodegenerative disorders.  It will highlight the mechanisms behind therapeutic approaches for combating Huntington’s disease, Parkinson’s disease, amyotrophic lateral sclerosis (ALS) and various forms of dementia, including Alzheimer’s disease.  Discussions will also cover bioinformatics techniques used in neurogenetics, and experimental neurodegenerative disease models.
 
-This year’s programme will highlight various modelling (e.g. agent-based, game theory), ecological, phylogenetic and digital pathology tools used in cancer research. Participants will gain knowledge of evolutionary biology as applied to the somatic cell evolution in cancer, as well as the principles of ecology relevant to studying tumour microenvironments and immune selection. We also discuss the application of evo-eco principles in the design of novel clinical trials.
+This discussion-based course will be in-person, with some additional live-streamed lectures.  The programme will include live Q&A sessions, participant presentations and plenty of face-to-face networking opportunities with the course cohort and experts in the field.
 
-The course is suited to researchers interested in understanding cancer from an evolutionary and ecological perspective. Applications are invited from early-career scientists, including PhD students, postdoctoral fellows and new principal investigators.
+Aimed at individuals working in neurodegenerative research, neurogenetics or translational neuroscience. We encourage applications from PhD students, clinical scientists, veterinary scientists, post-doctoral researchers and researchers based in the pharmaceutical and biotechnology industries.
 
 [View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-biology-and-ecology-of-cancer-20220613/)
 
