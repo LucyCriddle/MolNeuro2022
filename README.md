@@ -13,7 +13,7 @@ This discussion-based course will be in-person, with some additional live-stream
 
 Aimed at individuals working in neurodegenerative research, neurogenetics or translational neuroscience. We encourage applications from PhD students, clinical scientists, veterinary scientists, post-doctoral researchers and researchers based in the pharmaceutical and biotechnology industries.
 
-[View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-biology-and-ecology-of-cancer-20220613/)
+[View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-neurodegeneration-and-therapeutic-approaches-20220725/)
 
 ## Committee
 - [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
