@@ -16,13 +16,13 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 [View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-neurodegeneration-and-therapeutic-approaches-20220725/)
 
 ## Committee
-- [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
-- [Kit Curtius](https://profiles.ucsd.edu/kathleen.curtius), University of California San Diego, USA
-- [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), Institute of Cancer Research, UK
-- [Carlo Maley](https://biodesign.asu.edu/carlo-maley), Arizona State University, USA
+- [Nancy Bonini](https://web.sas.upenn.edu/bonini-lab/)), University of Pennsylvania, USA
+- [Karen Duff](https://ukdri.ac.uk/team/karen-duff), UK Dementia Research Institute, UK
+- [Rita Sattler](https://www.barrowneuro.org/person/rita-sattler/), Barrow Neurological Institute, USA
+- [Patrik Verstreken](https://cbd.vib.be/labs/verstreken-lab), VIB-KU Leuven, Belgium
 
 ## Keynote speaker
-- [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
+- [Sir John Hardy] (https://www.ucl.ac.uk/uk-dementia-research-institute/john-hardy), UK Dementia Research Institute, UK
 
 ## Instructors
 - [Giulio Caravagna](https://sites.google.com/site/giuliocaravagna/), University of Trieste, Italy
