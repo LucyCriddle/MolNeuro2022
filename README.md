@@ -73,9 +73,9 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 [Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf)
 
 **Attendees**  
-     - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
-     - [Instructor biographies to be added](EBEC_2022_programme_online.pdf)  
-     - [Student biographies to be added](EBEC_2022_programme_online.pdf)  
+     - [Delegate list to be added] 
+     - [Instructor biographies to be added] 
+     - [Student biographies to be added] 
 
 **Useful information**  
      - [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
