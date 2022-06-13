@@ -40,7 +40,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 ## Additional Live-Streamed Session Speakers
 - [Caroline Benn](https://uk.linkedin.com/in/caroline-l-benn-6b24286?original_referer=https%3A%2F%2Fcoursesandconferences.wellcomeconnectingscience.org%2F), LoQus23 Therapeutics Ltd, UK
 - [Frank Bennett](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/frank-bennett-ph-d-8b26213b&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrank-bennett-ph-d-8b26213b%3Foriginal_referer%3Dhttps%253A%252F%252Fcoursesandconferences.wellcomeconnectingscience.org%252F), Ionis, USA
-- 
+- [Warren Hirst] (https://www.linkedin.com/in/warren-hirst-ba86034), Biogen, USA
+-   
 - [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova), Delft University of Technology, The Netherlands
 - [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), University of Warsaw, Poland
 - [Nick Trahearn](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/evolutionary-genomics-modelling), Institute of Cancer Research, UK
