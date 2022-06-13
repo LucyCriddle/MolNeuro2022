@@ -38,7 +38,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 - [Selina Wray](https://iris.ucl.ac.uk/iris/browse/profile?upi=SWRAY93), University College London, UK
 
 ## Additional Live-Streamed Session Speakers
-- [Henry Scowcroft](https://news.cancerresearchuk.org/author/henry-scowcroft/), Cancer Research UK, UK
+- [Caroline Benn][(https://uk.linkedin.com/in/caroline-l-benn-6b24286?original_referer=https%3A%2F%2Fcoursesandconferences.wellcomeconnectingscience.org%2F), LoQus23 Therapeutics Ltd, UK
+- [Frank Bennett](https://www.mimuw.edu.pl/~szczurek/), Ionis, USA
 - [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova), Delft University of Technology, The Netherlands
 - [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), University of Warsaw, Poland
 - [Nick Trahearn](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/evolutionary-genomics-modelling), Institute of Cancer Research, UK
