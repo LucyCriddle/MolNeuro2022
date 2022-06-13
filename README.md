@@ -25,13 +25,19 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 - [Sir John Hardy](https://www.ucl.ac.uk/uk-dementia-research-institute/john-hardy), UK Dementia Research Institute, UK
 
 ## Instructors
-- [Giulio Caravagna](https://sites.google.com/site/giuliocaravagna/), University of Trieste, Italy
-- [Luis Cisneros](https://biodesign.asu.edu/luis-cisneros), Arizona State University, USA
-- [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
-- [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html), Queen Mary, University of London, UK
-- [Eszter Lakatos](https://scholar.google.com/citations?user=RWhQiEoAAAAJ&hl=en), St Bartholomew's Hospital and Queen Mary, University of London, UK
-- [Michelle Lockley](https://www.bartscancer.london/staff/dr-michelle-lockley/), St Bartholomew's Hospital and Queen Mary, University of London, UK
-- [Diego Mallo Adan](https://isearch.asu.edu/profile/2740266), Arizona State University, USA
+- [Gillian Bates](https://sites.google.com/site/giuliocaravagna/), UK Dementia Research Institue, UK
+- [Nancy Bonini](https://web.sas.upenn.edu/bonini-lab/), University of Pennsylvania, USA
+- [Beverly Davidson](https://biodesign.asu.edu/luis-cisneros), University of Pennsylvania, USA
+- [Karen Duff](https://ukdri.ac.uk/team/karen-duff), UK Dementia Research Institute, UK
+- [Alexandra Durr](https://moffitt.org/research-science/researchers/robert-gatenby/), Pitie-Salpetriere University Hospital, France
+- [Frances Edwards](https://www.qmul.ac.uk/maths/profiles/huangw.html), UniversityCollege London, UK
+- [Rosa Rademakers](https://scholar.google.com/citations?user=RWhQiEoAAAAJ&hl=en), VIB-UA Antwerp, Belgium
+- [Benjamin Ryskeldi-Falcon](https://www.bartscancer.london/staff/dr-michelle-lockley/), MRC Laboratory of Molecular Biology, UK
+- [Rita Sattler](https://www.barrowneuro.org/person/rita-sattler/), Barrow Neurological Institute, USA
+- [Patrik Verstreken](https://cbd.vib.be/labs/verstreken-lab), VIB-KU Leuven, Belgium
+- [Selina Wray](https://isearch.asu.edu/profile/2740266), University College London, UK
+
+## Additional Live-Streamed Session Speakers
 - [Henry Scowcroft](https://news.cancerresearchuk.org/author/henry-scowcroft/), Cancer Research UK, UK
 - [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova), Delft University of Technology, The Netherlands
 - [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), University of Warsaw, Poland
