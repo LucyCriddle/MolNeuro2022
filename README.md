@@ -49,32 +49,28 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 
 ## Delegate pack
 **Programme**  
-- Monday 13 June
+- Monday 25 July
   - Welcome
-  - Keynote - Robert Gatenby, Moffitt Cancer Center, USA
-  - Session 1: Introduction to key evolutionary concepts
-  - Session 2: Bioinformatics for cancer
-  - Poster session 1
-- Tuesday 14 June
-  - Session 3: Fitting maths models to data
-  - Session 4: Evolutionary game theory
-  - Session 5: Agent-based modeling
-  - Poster session 2
-- Wednesday 15 June
-  - Session 6: Immune selection
-  - Session 7: Digital pathology and ecology
-  - Session 8: Landscape ecology
-  - Focus group discussions
-- Thursday 16 June
-  - Session 9: Phylogenomics - mutation rates
-  - Session 10: Phylogenomics - demographics, biogeography
-  - Session 11: Designing clinical trials - evol and ecol perspectives
-  - Focus group discussions
-- Friday 17 June
-  - Session 12: Communication
+  - Student Introductions
+  - Session 1: Huntington's Disease Mechanisms
+  - Session 2: Parkinson's Disease Mechanisms
+- Tuesday 26 July
+  - Session 3: Clinical and Pathological Aspects
+  - Session 4: Genetic Analysis
+  - Lightning Talks and Posters
+- Wednesday 27 July
+  - Session 5: Dementia 1 - Amyloids
+  - Keynote Speaker
+  - Session 6: Human Cellular Models
+- Thursday 28 July
+  - Session 7: Dementia 2 - Tau
+  - Session 8: Therapeutic Approaches
+  -Lighning Talks and Posters
+- Friday 29 July 
+  - Session 9: ALS/FTD
   - Consolidation of learning and concluding remarks
 
-[Download detailed programme here](EBEC_2022_programme_online.pdf)
+[Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf))
 
 **Attendees**  
      - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
