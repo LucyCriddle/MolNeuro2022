@@ -70,7 +70,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
   - Session 9: ALS/FTD
   - Consolidation of learning and concluding remarks
 
-[Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf))
+[Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf)
 
 **Attendees**  
      - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
