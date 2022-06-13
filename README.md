@@ -16,7 +16,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 [View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-neurodegeneration-and-therapeutic-approaches-20220725/)
 
 ## Committee
-- [Nancy Bonini] (https://web.sas.upenn.edu/bonini-lab/)), University of Pennsylvania, USA
+- [Nancy Bonini](https://web.sas.upenn.edu/bonini-lab/), University of Pennsylvania, USA
 - [Karen Duff](https://ukdri.ac.uk/team/karen-duff), UK Dementia Research Institute, UK
 - [Rita Sattler](https://www.barrowneuro.org/person/rita-sattler/), Barrow Neurological Institute, USA
 - [Patrik Verstreken](https://cbd.vib.be/labs/verstreken-lab), VIB-KU Leuven, Belgium
