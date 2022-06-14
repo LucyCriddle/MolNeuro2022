@@ -117,7 +117,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      -[Karen Duff 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Duff_Karen_1.pdf)
      -[Karen Duff 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Duff_Karen_2.pdf)
      -[Karen Duff 3](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Duff_Karen_3.pdf)
-     -[Karen Duff 4](
+     -[Karen Duff 4](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Duff_Karen_4.pdf)
      
      
      
