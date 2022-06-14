@@ -122,7 +122,11 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
  **Session 8: Therapeutic Approaches**
      - [Frank Bennett 1]
      - [Frank Bennett 2]
-     -
+     
+ **Session 9: ALS/FTD**
+     - [Rita Sattler]
+     - [Nancy Bonini 1]
+     - [Nancy Bonini 2]
      
      
      
