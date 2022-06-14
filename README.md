@@ -111,7 +111,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      -[Selina Wray 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Selina_2.pdf)
      -[Selina Wray 3](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Selina_3.pdf)
      -[Selina Wray 4](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Seline_4.pdf)
-     -[Hongjun Song]
+     -[Hongjun Song](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Song_Hongjun.pdf)
 
 ******
 ## License
