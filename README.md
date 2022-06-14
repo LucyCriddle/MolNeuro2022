@@ -98,7 +98,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
   
 **Session 3: Clinical and Pathological Aspects**  
      - [Alexandra Durr 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Durr_Alexandra_1.pdf)
-     - [Alexandra Durr 2] 
+     - [Alexandra Durr 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Durr_Alexandra_2.pdf)
     
   
 
