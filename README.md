@@ -104,11 +104,14 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      -[Villas Menon](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Menon_Vilas.pdf)
 
 **Session 5: Demential 1 - Amyloids**
-     -[Frances Edwards]
+     -[Frances Edwards](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Edwards_Frances.pdf) 
      
-
-
-
+**Session 6: Human Cellular Models**
+     -[Selina Wray 1] 
+     -[Selina Wray 2]
+     -[Selina Wray 3]
+     -[Selina Wray 4]
+     -[Hongjun Song]
 
 ******
 ## License
