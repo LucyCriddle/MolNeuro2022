@@ -75,7 +75,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 **Attendees**  
      - [Delegate list to be added]   
      - [Committee and Tutor list](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Committee_Tutor_List_Molecular_Neurodegeneration.pdf)  
-     - [Instructor biographies to be added] 
+     - [Tutor biographies](
+
      - [Student biographies to be added] 
 
 **Useful information**  
