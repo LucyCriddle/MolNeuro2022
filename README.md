@@ -91,7 +91,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      - [Caroline Benn](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Benn_Caroline.pdf)
     
  **Session 2: Parkinson's Disease Mechanisms**  
-     - [Warren Hirst 1]
+     - [Warren Hirst 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_1.pdf) 
      - [Warren Hirst 2]
      - [Warren Hirst 3]
      - [Warren Hirst 4] 
