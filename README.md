@@ -73,7 +73,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 [Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf)
 
 **Attendees**  
-     - [Delegate list] 
+     - [Delegate list to be added]   
+     - [Committee and Tutor list](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Committee_Tutor_List_Molecular_Neurodegeneration.pdf)  
      - [Instructor biographies to be added] 
      - [Student biographies to be added] 
 
