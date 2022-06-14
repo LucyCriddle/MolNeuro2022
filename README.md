@@ -73,7 +73,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 [Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf)
 
 **Attendees**  
-     - [Delegate list to be added] 
+     - [Delegate list] 
      - [Instructor biographies to be added] 
      - [Student biographies to be added] 
 
