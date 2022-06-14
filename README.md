@@ -115,7 +115,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      
 **Session 7: Demential 2 - Tau**
      -[Karen Duff 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Duff_Karen_1.pdf)
-     -[Karen Duff 2](
+     -[Karen Duff 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Duff_Karen_2.pdf)
      -[Karen Duff 3](
      -[Karen Duff 4](
      
