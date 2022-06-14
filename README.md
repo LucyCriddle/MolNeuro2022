@@ -124,7 +124,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      - [Frank Bennett 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bennett_Frank_2.pdf)
      
  **Session 9: ALS/FTD**
-     - [Rita Sattler]
+     - [Rita Sattler](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Sattler_Rita.pdf)
      - [Nancy Bonini 1]
      - [Nancy Bonini 2]
      
