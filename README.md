@@ -86,7 +86,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 
 ## Pre-course reading
 **Session 1: Huntington's Disease Mechanisms
-     - [Gillian Bates] 
+     - [Gillian Bates](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_1.pdf)
+     - [Gillain Bates]
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
