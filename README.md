@@ -88,7 +88,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 **Session 1: Huntington's Disease Mechanisms**
      - [Gillian Bates](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_1.pdf)
      - [Gillain Bates](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_2.pdf)
-     -
+     - [Caroline Benn](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Benn_Caroline.pdf)
     
   
 **Session 1: Introduction to key evolutionary concepts**  
