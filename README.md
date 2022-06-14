@@ -93,7 +93,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
  **Session 2: Parkinson's Disease Mechanisms**  
      - [Warren Hirst 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_1.pdf) 
      - [Warren Hirst 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_2.pdf)
-     - [Warren Hirst 3]
+     - [Warren Hirst 3](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_3.pdf) 
      - [Warren Hirst 4] 
   
 **TEST Session 2: Bioinformatics for cancer**  
