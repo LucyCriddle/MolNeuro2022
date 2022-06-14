@@ -100,13 +100,15 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      - [Alexandra Durr 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Durr_Alexandra_1.pdf)
      - [Alexandra Durr 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Durr_Alexandra_2.pdf)
     
- **Session 4: Genetic Analysis**
+**Session 4: Genetic Analysis**
      -[Villas Menon](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Menon_Vilas.pdf)
 
+**Session 5: Demential 1 - Amyloids**
+     -[Frances Edwards]
+     -(
 
 
 
-Any reuse of the course materials is encouraged with due acknowledgement.
 
 ******
 ## License
