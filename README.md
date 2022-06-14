@@ -79,16 +79,18 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 
 **Useful information**  
      - [Welcome letter](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Welcome%20Letter_Molecular%20Neurodegeneration.pdf) 
-     - [Joining instructions to be added](EBEC_2022_programme_online.pdf)  
+     
+     - [Joining instructions to be added] 
+     
      - [Campus map](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Campus_map.pdf)
 
 ## Pre-course reading
-**General**  
-     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
+**Session 1: Huntington's Disease Mechanisms
+     - [Gillian Bates] 
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
-**TEST Session 1: Introduction to key evolutionary concepts**  
+**Session 1: Introduction to key evolutionary concepts**  
      - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
