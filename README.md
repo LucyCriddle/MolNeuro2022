@@ -121,7 +121,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      
  **Session 8: Therapeutic Approaches**
      - [Frank Bennett 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bennett_Frank_1.pdf)
-     - [Frank Bennett 2]
+     - [Frank Bennett 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bennett_Frank_2.pdf)
      
  **Session 9: ALS/FTD**
      - [Rita Sattler]
