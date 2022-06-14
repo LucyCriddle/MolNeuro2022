@@ -86,15 +86,15 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 
 ## Pre-course reading
 **Session 1: Huntington's Disease Mechanisms**
-     - [Gillian Bates](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_1.pdf)
-     - [Gillain Bates](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_2.pdf)
+     - [Gillian Bates 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_1.pdf)
+     - [Gillian Bates 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Bates_Gillian_2.pdf)
      - [Caroline Benn](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Benn_Caroline.pdf)
     
-  
-**Session 1: Introduction to key evolutionary concepts**  
-     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
+ **Session 2: Parkinson's Disease Mechanisms**  
+     - [Warren Hirst 1]
+     - [Warren Hirst 2]
+     - [Warren Hirst 3]
+     - [Warren Hirst 4] 
   
 **TEST Session 2: Bioinformatics for cancer**  
      - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
