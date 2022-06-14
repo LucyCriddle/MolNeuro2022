@@ -94,7 +94,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      - [Warren Hirst 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_1.pdf) 
      - [Warren Hirst 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_2.pdf)
      - [Warren Hirst 3](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_3.pdf) 
-     - [Warren Hirst 4] 
+     - [Warren Hirst 4](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Hirst_Warren_4.pdf)
   
 **TEST Session 2: Bioinformatics for cancer**  
      - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
