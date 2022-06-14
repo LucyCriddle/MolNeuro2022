@@ -112,7 +112,17 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      -[Selina Wray 3](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Selina_3.pdf)
      -[Selina Wray 4](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Seline_4.pdf)
      -[Hongjun Song](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Song_Hongjun.pdf)
-
+     
+**Session 7: Demential 2 - Tau**
+     -[Karen Duff 1](
+     -[Karen Duff 2](
+     -[Karen Duff 3](
+     -[Karen Duff 4](
+     
+     
+     
+     
+     
 ******
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
