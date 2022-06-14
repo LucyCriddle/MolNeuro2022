@@ -100,7 +100,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      - [Alexandra Durr 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Durr_Alexandra_1.pdf)
      - [Alexandra Durr 2](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Durr_Alexandra_2.pdf)
     
-  
+ **Session 4: Genetic Analysis**
+     -[Villas Menon]
 
 
 
