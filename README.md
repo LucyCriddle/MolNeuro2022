@@ -107,8 +107,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      -[Frances Edwards](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Edwards_Frances.pdf) 
      
 **Session 6: Human Cellular Models**
-     -[Selina Wray 1] 
-     -[Selina Wray 2]
+     -[Selina Wray 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Selena_1.pdf)
+     -[Selina Wray 2](
      -[Selina Wray 3]
      -[Selina Wray 4]
      -[Hongjun Song]
