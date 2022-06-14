@@ -80,7 +80,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 **Useful information**  
      - [Welcome letter to be added](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Welcome%20Letter_Molecular%20Neurodegeneration.pdf)
      - [Joining instructions to be added](EBEC_2022_programme_online.pdf)  
-     - [Campus map to be added](EBEC_2022_programme_online.pdf)  
+     - [Campus map](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Campus_map.pdf)
 
 ## Pre-course reading
 **General**  
