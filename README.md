@@ -105,7 +105,7 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
 
 **Session 5: Demential 1 - Amyloids**
      -[Frances Edwards]
-     -(
+     
 
 
 
