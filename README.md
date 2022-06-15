@@ -83,7 +83,8 @@ Aimed at individuals working in neurodegenerative research, neurogenetics or tra
      - [Joining instructions to be added]   
      - [Campus map](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Campus_map.pdf)    
      - [Shipping label](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Shipping_label_Molecular_Neurodegeneration.pdf)    
-     - [Poster numbers](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Poster_list_Molecular_Neurodegeneration.pdf)  
+     - [Poster numbers](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Poster_list_Molecular_Neurodegeneration.pdf)   
+     - [Slack Channel to be added]  
 
 ## Pre-course reading
 **Session 1: Huntington's Disease Mechanisms**  
