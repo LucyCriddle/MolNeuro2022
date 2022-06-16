@@ -49,7 +49,7 @@ Following attendance at the course, you will be able to:
 - [Caroline Benn](https://uk.linkedin.com/in/caroline-l-benn-6b24286?original_referer=https%3A%2F%2Fcoursesandconferences.wellcomeconnectingscience.org%2F), LoQus23 Therapeutics Ltd, UK
 - [Frank Bennett](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/frank-bennett-ph-d-8b26213b&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrank-bennett-ph-d-8b26213b%3Foriginal_referer%3Dhttps%253A%252F%252Fcoursesandconferences.wellcomeconnectingscience.org%252F), Ionis, USA
 - [Warren Hirst](https://www.linkedin.com/in/warren-hirst-ba86034), Biogen, USA
-- [John Issac](https://jnjinnovation.com/team/john-isaac), Johnson and Johnson Innovation, UK
+- [John Isaac](https://jnjinnovation.com/team/john-isaac), Janssen, Johnson and Johnson Innovation, UK
 - [Vilas Menon](https://www.neurology.columbia.edu/profile/vilas-menon-phd), Columbia University, USA
 - [Hongjun Song](https://hosting.med.upenn.edu/epigenetics/people/hongjun-song-ph-d/), University of Pennsylvania, USA
 - [Diethmar Thai](https://www.kuleuven.be/wieiswie/en/person/00097737), KU Leuven, Belgium
