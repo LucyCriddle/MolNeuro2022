@@ -81,7 +81,7 @@ Following attendance at the course, you will be able to:
 [Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf)
 
 **Attendees**  
-     - [Delegate list to be added]   
+     - [Delegate list](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Delegate_list_Molecular%20Neurodegeneration.pdf)   
      - [Committee and Tutor list](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Committee_Tutor_List_Molecular_Neurodegeneration.pdf)  
      - [Tutor biographies](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Tutor_Biographies_Molecular_Neurodegeneration.pdf)  
      - [Delegate biographies](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Delegate_Biographies_Molecular_Neurodegeneration.pdf)
