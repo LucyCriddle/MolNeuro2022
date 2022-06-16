@@ -11,7 +11,15 @@ This popular course will provide an overview of the clinical hallmarks and molec
 
 This discussion-based course will be in-person, with some additional live-streamed lectures.  The programme will include live Q&A sessions, participant presentations and plenty of face-to-face networking opportunities with the course cohort and experts in the field.
 
-Aimed at individuals working in neurodegenerative research, neurogenetics or translational neuroscience. We encourage applications from PhD students, clinical scientists, veterinary scientists, post-doctoral researchers and researchers based in the pharmaceutical and biotechnology industries.
+## Learning Outcomes
+Following attance at the course, you will be able to:
+ - Decribe the heterogeneity in clinical symptoms and pathological hallmarks if the major neurodegenerative diseases  
+ - Explain the mechanisms of disease pathogenesis in Parkinson's disease, Huntington's disease, Alzheimer's disease, amyotrophic lateral sclerosis and other disorders  
+ - Evaluate the different disease modles used to study this range of disorders
+ - Explain the general principles of experimental models for various neurogenerative disease
+ - Discuss the generation of human stem cells and brain organoids
+ - Understand the value of applying various genomic approaches
+ - Evaluate the current and potential treatments, including antisense and gene therapies
 
 [View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-neurodegeneration-and-therapeutic-approaches-20220725/)
 
