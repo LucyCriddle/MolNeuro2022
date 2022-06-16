@@ -84,7 +84,7 @@ Following attendance at the course, you will be able to:
      - [Delegate list to be added]   
      - [Committee and Tutor list](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Committee_Tutor_List_Molecular_Neurodegeneration.pdf)  
      - [Tutor biographies](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Tutor_Biographies_Molecular_Neurodegeneration.pdf)  
-     - [Delegate biographies](
+     - [Delegate biographies](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Delegate_Biographies_Molecular_Neurodegeneration.pdf)
 
 **Useful information**  
      - [Welcome letter](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Welcome%20Letter_Molecular%20Neurodegeneration.pdf)   
