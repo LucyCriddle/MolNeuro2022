@@ -89,7 +89,7 @@ Following attendance at the course, you will be able to:
      - [Welcome letter](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Welcome%20Letter_Molecular%20Neurodegeneration.pdf)   
      - [Campus map](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Campus_map.pdf)    
      - [Shipping label](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Shipping_label_Molecular_Neurodegeneration.pdf)    
-     - [Poster numbers](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Poster_list_Molecular_Neurodegeneration.pdf)   
+     - [Poster numbers](https://github.com/LucyCriddle/MolNeuro2022/blob/main/V2_Doc_Poster_list_Molecular_Neurodegeneration.pdf)    
      - [Slack Channel to be added]  
 
 ## Pre-course reading
