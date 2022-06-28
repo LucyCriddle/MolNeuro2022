@@ -35,7 +35,6 @@ Following attendance at the course, you will be able to:
 ## Instructors
 - [Gillian Bates](https://www.ucl.ac.uk/brain-sciences/people/professor-gill-bates), UK Dementia Research Institue, UK
 - [Nancy Bonini](https://web.sas.upenn.edu/bonini-lab/), University of Pennsylvania, USA
-- [Beverly Davidson](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8762892), University of Pennsylvania, USA
 - [Karen Duff](https://ukdri.ac.uk/team/karen-duff), UK Dementia Research Institute, UK
 - [Alexandra Durr](https://institutducerveau-icm.org/en/member/?user=922), Pitie-Salpetriere University Hospital, France
 - [Frances Edwards](https://www.ucl.ac.uk/biosciences/people/edwards-frances), UniversityCollege London, UK
@@ -47,9 +46,9 @@ Following attendance at the course, you will be able to:
 
 ## Additional Live-Streamed Session Speakers
 - [Caroline Benn](https://uk.linkedin.com/in/caroline-l-benn-6b24286?original_referer=https%3A%2F%2Fcoursesandconferences.wellcomeconnectingscience.org%2F), LoQus23 Therapeutics Ltd, UK
-- [Frank Bennett](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/frank-bennett-ph-d-8b26213b&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrank-bennett-ph-d-8b26213b%3Foriginal_referer%3Dhttps%253A%252F%252Fcoursesandconferences.wellcomeconnectingscience.org%252F), Ionis, USA
+- [Frank Bennett](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/frank-bennett-ph-d-8b26213b&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrank-bennett-ph-d-8b26213b%3Foriginal_referer%3Dhttps%253A%252F%252Fcoursesandconferences.wellcomeconnectingscience.org%252F), Ionis, USA   
+- [Beverly Davidson](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8762892), University of Pennsylvania, USA   
 - [Warren Hirst](https://www.linkedin.com/in/warren-hirst-ba86034), Biogen, USA
-- [John Isaac](https://jnjinnovation.com/team/john-isaac), Janssen, Johnson and Johnson Innovation, UK
 - [Vilas Menon](https://www.neurology.columbia.edu/profile/vilas-menon-phd), Columbia University, USA
 - [Hongjun Song](https://hosting.med.upenn.edu/epigenetics/people/hongjun-song-ph-d/), University of Pennsylvania, USA
 - [Diethmar Thai](https://www.kuleuven.be/wieiswie/en/person/00097737), KU Leuven, Belgium
