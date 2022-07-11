@@ -72,8 +72,8 @@ Following attendance at the course, you will be able to:
   - Session 6: Human Cellular Models
 - Thursday 28 July
   - Session 7: Dementia 2 - Tau
-  - Session 8: Therapeutic Approaches
-  -Lighning Talks and Posters
+  - Session 8: Therapeutic Approaches  
+  - Lighning Talks and Posters
 - Friday 29 July 
   - Session 9: ALS/FTD
   - Consolidation of learning and concluding remarks
