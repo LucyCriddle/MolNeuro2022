@@ -37,7 +37,8 @@ Following attendance at the course, you will be able to:
 - [Nancy Bonini](https://web.sas.upenn.edu/bonini-lab/), University of Pennsylvania, USA
 - [Karen Duff](https://ukdri.ac.uk/team/karen-duff), UK Dementia Research Institute, UK
 - [Alexandra Durr](https://institutducerveau-icm.org/en/member/?user=922), Pitie-Salpetriere University Hospital, France
-- [Frances Edwards](https://www.ucl.ac.uk/biosciences/people/edwards-frances), UniversityCollege London, UK
+- [Frances Edwards](https://www.ucl.ac.uk/biosciences/people/edwards-frances), University College London, UK  
+- [Lorenza Magno](https://iris.ucl.ac.uk/iris/browse/profile?upi=LMAGN54), University College London, UK  
 - [Rosa Rademakers](https://vib.be/labs/rademakers-lab), VIB-UA Antwerp, Belgium
 - [Benjamin Ryskeldi-Falcon](https://www2.mrc-lmb.cam.ac.uk/group-leaders/n-to-s/benjamin-falcon/), MRC Laboratory of Molecular Biology, UK
 - [Rita Sattler](https://www.barrowneuro.org/person/rita-sattler/), Barrow Neurological Institute, USA
