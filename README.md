@@ -92,7 +92,7 @@ Following attendance at the course, you will be able to:
      - [Shipping label](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Shipping_label_Molecular_Neurodegeneration.pdf)    
      - [Poster numbers](https://github.com/LucyCriddle/MolNeuro2022/blob/main/V2_Doc_Poster_list_Molecular_Neurodegeneration.pdf)  
      - [Lightning talk schedule](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Lightning_Talk_Schedule_Molecular_Neurodegeneration.pdf)  
-     - [Slack Channel to be added](https://join.slack.com/t/molecularneur-inv9388/shared_invite/zt-1c6azjdo2-DVx3QG06ao_Y7nnxNyDa_g)   
+     - [Slack Channel](https://join.slack.com/t/molecularneur-inv9388/shared_invite/zt-1c6azjdo2-DVx3QG06ao_Y7nnxNyDa_g)   
 
 ## Pre-course reading
 **Session 1: Huntington's Disease Mechanisms**  
