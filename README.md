@@ -78,7 +78,7 @@ Following attendance at the course, you will be able to:
   - Session 9: ALS/FTD
   - Consolidation of learning and concluding remarks
 
-[Download detailed programme here](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/uploads/2021/09/Molecular-Neurodegneration-2022-draft-programme-V9-WEBSITE.pdf)
+[Download detailed programme here](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Molecular_Neurodegneration_2022_Final_Programme.pdf)
 
 **Attendees**  
      - [Delegate list](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Doc_Delegate_list_Molecular%20Neurodegeneration.pdf)   
