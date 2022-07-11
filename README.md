@@ -116,7 +116,7 @@ Following attendance at the course, you will be able to:
 **Session 5: Demential 1 - Amyloids**  
      - [Frances Edwards](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Edwards_Frances.pdf)  
      - [Lorenza Magno](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Magno_Lorenza_1.pdf)  
-     - [Lorenza Magno](
+     - [Lorenza Magno](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Magno_Lorenza_2.pdf)  
      
 **Session 6: Human Cellular Models**  
      - [Selina Wray 1](https://github.com/LucyCriddle/MolNeuro2022/blob/main/Wray_Selena_1.pdf)  
